@@ -1,0 +1,44 @@
+#contact iframe {
+    width: 100%;
+}
+
+.tD {
+    border: 1px solid rgb(221, 21, 21);
+}
+
+.tD img {
+    width: 100%;
+}
+
+.tD h5,
+
+.tD p {
+    margin: 20px;
+}
+
+.mStuff {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.mStuff i {
+    float: right;
+}
+
+.anyClass4Movie span {
+    color: orange;
+}
+
+.book {
+    margin-bottom: 20px;
+}
+
+#amL iframe {
+    width: 100%;
+}
+
+hr .hrs{
+    border-top: 1px solid red;
+}
